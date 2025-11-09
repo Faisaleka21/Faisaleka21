@@ -69,4 +69,4 @@ Berikut beberapa sertifikat yang pernah saya dapatkan:
 
 ---
 
-<h3 align="center">💬 “Coding, Belajar, Ngopi☕.” 🚀</h3>
+<h3 align="center">💬 “Coding, Belajar, Ngopi.” ☕</h3>
