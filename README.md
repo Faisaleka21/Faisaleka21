@@ -2,12 +2,6 @@
 
 <h2 align="center">✨ Faisal Eka Nur Irawan ✨</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Faisaleka21&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views"/>
-</p>
-
----
-
 ### 🧑‍💻 Tentang Saya
 Halo semuanya! Saya **Faisal Eka Nur Irawan**, seorang mahasiswa sekaligus pengembang pemula yang tertarik dengan dunia **teknologi, pemrograman web, dan Internet of Things (IoT)**.  
 Saya senang mempelajari hal-hal baru, mengembangkan proyek kreatif, dan berbagi ilmu dengan orang lain.
@@ -23,19 +17,32 @@ Saya senang mempelajari hal-hal baru, mengembangkan proyek kreatif, dan berbagi 
 ### 🏆 Sertifikat & Penghargaan
 Berikut beberapa sertifikat yang pernah saya dapatkan:
 
-| 🏅 No | 📜 Nama Sertifikat | 🏢 Lembaga | 📅 Tahun |
-|------:|--------------------|------------|-----------|
-| 1 | Belajar Dasar Pemrograman Web | Dicoding Indonesia | 2024 |
-| 2 | Pelatihan Komputasi Awan Dasar | Kampus Merdeka x Google Cloud | 2024 |
-| 3 | Dasar-Dasar IoT | Cisco Networking Academy | 2023 |
-| 4 | Pemrograman Dasar Python | Dicoding Indonesia | 2023 |
-| 5 | Junior Web Developer | BNSP Indonesia | 2025 *(Target)* |
+
+<!-- <p align="center">
+  <a href="https://raw.githubusercontent.com/Faisaleka21/Faisaleka21/main/certificates/web.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/Faisaleka21/Faisaleka21/main/certificates/web.jpg" alt="Belajar Dasar Pemrograman Web - Dicoding" width="250" style="border-radius:10px; margin:10px;">
+  </a>
+  <a href="https://raw.githubusercontent.com/Faisaleka21/Faisaleka21/main/certificates/cloud.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/Faisaleka21/Faisaleka21/main/certificates/cloud.jpg" alt="Pelatihan Komputasi Awan Dasar - Kampus Merdeka x Google Cloud" width="250" style="border-radius:10px; margin:10px;">
+  </a>
+  <a href="https://raw.githubusercontent.com/Faisaleka21/Faisaleka21/main/certificates/iot.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/Faisaleka21/Faisaleka21/main/certificates/iot.jpg" alt="Dasar-Dasar IoT - Cisco Networking Academy" width="250" style="border-radius:10px; margin:10px;">
+  </a>
+  <a href="https://raw.githubusercontent.com/Faisaleka21/Faisaleka21/main/certificates/python.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/Faisaleka21/Faisaleka21/main/certificates/python.jpg" alt="Pemrograman Dasar Python - Dicoding" width="250" style="border-radius:10px; margin:10px;">
+  </a>
+</p> -->
+
+<p align="center">
+  <em>🎯 Sertifikat akan terus bertambah seiring perjalanan belajar dan pengalaman saya.</em>
+</p>
+
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,php,mysql,git,github,tailwind,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,php,mysql,git,github,vscode,java" />
 </p>
 
 ---
