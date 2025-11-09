@@ -42,7 +42,31 @@ Berikut beberapa sertifikat yang pernah saya dapatkan:
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,php,mysql,git,github,vscode,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,php,mysql,git,github,vscode,java,arduinoide" />
+  <!-- Arduino IDE -->
+  <a href="https://www.arduino.cc/en/software" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" alt="Arduino IDE" title="Arduino IDE" />
+  </a>
+  <!-- Laragon -->
+  <a href="https://laragon.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Faisaleka21/Faisaleka21/main/icons/laragon.png" width="45" alt="Laragon" title="Laragon" />
+  </a>
+  <!-- Thonny -->
+  <a href="https://thonny.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Faisaleka21/Faisaleka21/main/icons/thonny.png" width="45" alt="Thonny" title="Thonny (Python IDE)" />
+  </a>
+  <!-- GNU Octave -->
+  <a href="https://www.gnu.org/software/octave/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="45" alt="GNU Octave" title="GNU Octave" />
+  </a>
+  <!-- Code::Blocks -->
+  <a href="https://www.codeblocks.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Code::Blocks_logo.svg" width="45" alt="Code::Blocks" title="Code::Blocks IDE" />
+  </a>
+  <!-- NetBeans -->
+  <a href="https://netbeans.apache.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="45" alt="NetBeans" title="Apache NetBeans" />
+  </a>
 </p>
 
 ---
