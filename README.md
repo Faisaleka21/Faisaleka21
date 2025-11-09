@@ -8,8 +8,7 @@ Saya senang mempelajari hal-hal baru, mengembangkan proyek kreatif, dan berbagi 
 
 💡 **Fokus Belajar Saat Ini:**
 - ⚙️ Backend: Laravel, PHP, MySQL  
-- 💻 Frontend: React.js, Tailwind CSS  
-- ☁️ Cloud & Deployment: Firebase, Vercel, dan cPanel  
+- 💻 Frontend: React.js
 - 🔌 IoT: ESP8266 / Arduino Integration  
 
 ---
