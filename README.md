@@ -1,5 +1,9 @@
 <h1 align="center">👋 Selamat Datang di Profil Saya!</h1>
 
+<p align="center">
+  <img width="224" height="224" alt="ChatGPT Image 3 Mei 2025, 14 36 24" src="https://github.com/user-attachments/assets/b66ecad6-d92d-4f51-851e-3d5349a3731f" />
+</p>
+
 <h2 align="center">✨ Faisal Eka Nur Irawan ✨</h2>
 
 ### 🧑‍💻 Tentang Saya
