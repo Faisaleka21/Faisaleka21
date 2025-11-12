@@ -15,8 +15,6 @@ Saya senang mempelajari hal-hal baru, mengembangkan proyek kreatif, dan berbagi 
 - 💻 Frontend: React.js
 - 🔌 IoT: ESP8266 / Arduino Integration  
 
----
-
 ### 🏆 Sertifikat & Penghargaan
 Berikut beberapa sertifikat yang pernah saya dapatkan:
 
@@ -40,9 +38,6 @@ Berikut beberapa sertifikat yang pernah saya dapatkan:
   <em>🎯 Sertifikat akan terus bertambah seiring perjalanan belajar dan pengalaman saya.</em>
 </p>
 
-
----
-
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,laravel,php,mysql,git,github,vscode,java,octave,arduino" />
@@ -52,7 +47,6 @@ Berikut beberapa sertifikat yang pernah saya dapatkan:
   </a>
 </p>
 
----
 
 ### 📊 Statistik GitHub
 <p align="center">
@@ -60,7 +54,6 @@ Berikut beberapa sertifikat yang pernah saya dapatkan:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisaleka21&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
----
 
 ### 🌐 Hubungi Saya
 <p align="center">
